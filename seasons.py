@@ -1,5 +1,7 @@
 # seasons
+
 month=int(input("Enter the month (0-12): "))
+
 if month==1 or month==2 or month==3:
     print("Winter⛄")
 elif month==4 or month==5 or month==6:
